@@ -2,10 +2,12 @@
 
  🔭: No momento estou estudando dados e buscando um estágio na área da tecnologia.
  
- 💻: Estudando sobre banco de dados
+ 💻: Me aprofundando em análise de dados.
 
-Conhecimentos prévios nas linguagens de JavaScript e Python.
-Conhecimentos prévio em SQL.
+* Conhecimentos nas linguagens de JavaScript e Python.
+* Conhecimento em excel
+* Conhecimentos em SQL e Análise de Dados.
+* Conhecimento na ferramenta Tableau
 
  <div style="display: inline_block"><br>
   <img align="side" alt="Python" height="30" width="80" src="https://img.shields.io/badge/Python-f26c97?style=for-the-badge&logo=python&logoColor=white">
