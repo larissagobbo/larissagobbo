@@ -8,21 +8,31 @@ Conhecimentos prévios nas linguagens de JavaScript e Python.
 Conhecimentos prévio em SQL.
 
  <div style="display: inline_block"><br>
-  <img align="side" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
-  <img align="side" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
-  <img align="side" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
+  <img align="side" alt="Python" height="30" width="80" src="https://img.shields.io/badge/Python-f26c97?style=for-the-badge&logo=python&logoColor=white">
+  <img align="side" alt="MySql" height="30" width="80" src="https://img.shields.io/badge/MySQL-f26c97?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="side" alt="JS" height="30" width="80" src="https://img.shields.io/badge/JavaScript-f26c97?style=for-the-badge&logo=javascript&logoColor=white">
   <img align="right" alt="lgif" height="150" width="150"src="https://cdn.discordapp.com/attachments/1125496086753194067/1125496220924776468/Design_sem_nome.gif">
+<img align="side" alt="Excel" height="30" width="80" src="https://img.shields.io/badge/Microsoft_Excel-f26c97?style=for-the-badge&logo=microsoft-excel&logoColor=white"
+
+
+  
+<br/>
+  
 </div>
 
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=larissagobbo&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=larissagobbo&bg_color=ffcbdb&border_color=ffffff&titlecolor=b8b8b8&text_color=111)
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=larissagobbo&theme=bear&background=ffb6c1&border=ffb6c1C&dates=FFF)](https://git.io/streak-stats)
 
  ##
  
 <div> 
-  <a href="https://instagram.com/_larissagobbo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/larissa-gobbo-78798822a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/_larissagobbo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-f26c97?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/larissa-gobbo-78798822a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-f26c97?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   
 </div>
