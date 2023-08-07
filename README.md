@@ -4,7 +4,7 @@
  
  💻: Me aprofundando em análise de dados.
 
-* Conhecimentos nas linguagens de JavaScript e Python.
+* Conhecimentos nas linguagens de JavaScript, Java e Python.
 * Conhecimento em excel
 * Conhecimentos em SQL e Análise de Dados.
 * Conhecimento na ferramenta Tableau
