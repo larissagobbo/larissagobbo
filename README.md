@@ -1,17 +1,19 @@
-## 💜 Olá, meu nome é <strong>{Larissa}!</strong>
+## 💜 Oiii! Sou a Larissa, estudante de banco de dados e apaixonada por tecnologia. 
 
 
- 🔭: No momento estou estudando dados e buscando um estágio na área da tecnologia.
+ 🔭: No momento estou focada em desenvolvimento web front-end.
  
- 💻: Me aprofundando em análise de dados.
+ 💻: Estou me aprofundando nos principais conceitos de front-end, html, css e javascript.
 
-* Conhecimentos nas linguagens Java e Python.
-* Conhecimento em excel
-* Conhecimentos em SQL e Análise de Dados.
-* Conhecimento na ferramenta Tableau
+* Tenho conhecimento básico em JavaScript, HTML e CSS.
+* Conhecimentos prévios em Python
+* Conhecimento prévio em banco de dados.
+
+
+Estou em busca de um estágio para conseguir me aprofundar na área de desenvolvimento e por em prática a parte teórica que já possuo.
 
  <div style="display: inline_block"><br>
-  <img align="side" alt="Python" height="30" width="80" src="https://img.shields.io/badge/Python-f26c97?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
   <img align="side" alt="MySql" height="30" width="80" src="https://img.shields.io/badge/MySQL-f26c97?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="right" alt="lgif" height="150" width="150"src="https://cdn.discordapp.com/attachments/1125496086753194067/1125496220924776468/Design_sem_nome.gif">
 <img align="side" alt="Excel" height="30" width="80" src="https://img.shields.io/badge/Microsoft_Excel-f26c97?style=for-the-badge&logo=microsoft-excel&logoColor=white"
